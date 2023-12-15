@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1098622746840",
+    "firebase_url": "https://iothumidity-d9310-default-rtdb.firebaseio.com",
+    "project_id": "iothumidity-d9310",
+    "storage_bucket": "iothumidity-d9310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098622746840:android:5813aae1d3227bb69097ad",
+        "android_client_info": {
+          "package_name": "com.example.iot_aes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTL19lVwuDFhISsXldj8pEHTFsuSxu7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
